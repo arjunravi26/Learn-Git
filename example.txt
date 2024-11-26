@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"Main branch content" 
-=======
-"Feature branch content" 
->>>>>>> feature
+"Main branch content"
+"Feature branch content"
