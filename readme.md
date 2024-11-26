@@ -2,7 +2,7 @@
 
 This documentation provides a detailed guide to essential Git commands, organized by categories for better understanding.
 
----
+
 
 ## **1. Setting Up Git**
 
